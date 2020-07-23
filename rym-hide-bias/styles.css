@@ -1,0 +1,63 @@
+/* .disco_avg_rating {
+    display: none;
+}
+
+.avg_rating {
+    display: none;
+} */
+
+/* table.album_info > tbody > tr:nth-of-type(4){
+    display: none;
+  } */
+
+/* .avg_rating_friends {
+    display: none;
+} */
+
+/* 
+
+.disco_header_rating {
+    display: none;
+}
+
+div.disco_mainline > b {
+    font-weight: normal
+}
+
+
+
+*/
+
+.album_info {
+    display: none;
+}
+
+.disco_header_rating {
+    display: none;
+}
+
+.disco_avg_rating {
+    display: none;
+}
+
+.disco_header_num_ratings {
+    float: right !important;
+    width: 5.5em !important;
+    margin-right: 9.8em !important;
+}
+
+.review_rating {
+    display: none;
+}
+
+.track_rating_ {
+    display: none;
+} 
+
+div.section_catalog.section_outer {
+    display: none;
+}
+
+span.track_rating  {
+    display: none;
+}
